@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>ali.png</file>
+  </qresource>
+</RCC>
